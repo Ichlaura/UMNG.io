@@ -1,8 +1,8 @@
-
-"""
+ """
 by: LouisLee6111
-
 """
+
+new_func()
 
 import numpy as np 
 import os
